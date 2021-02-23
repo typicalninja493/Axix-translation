@@ -19,7 +19,7 @@
 * Create a folder with your locale code if it does not exist, for example es for spanish (must be the locale code), if a folder with your loacale exists, do not create a new one, 
 edit **only** the untranslated parts
 
-If your created a loacale folder
+If your created a locale folder
 
 **>** Copy the files in the en/ folder to your locale folder
 
