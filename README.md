@@ -31,3 +31,6 @@ If your created a loacale folder
 * Save files
 
 * Create a Pull request with your changed items or dm TypicalNinja#9309 
+
+
+# Pull request : [click here](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
